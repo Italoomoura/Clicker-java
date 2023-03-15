@@ -1,7 +1,7 @@
 import java.awt.*;
 import javax.swing.*;
 
-public class GUI {
+public class clicker {
 	
 	static int contador = 0;
 	static JLabel label;
